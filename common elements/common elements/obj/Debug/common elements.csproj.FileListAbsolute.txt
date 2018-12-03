@@ -1,0 +1,7 @@
+E:\ACASA\homework4\common elements\common elements\obj\Debug\common elements.csprojAssemblyReference.cache
+E:\ACASA\homework4\common elements\common elements\obj\Debug\common elements.csproj.CoreCompileInputs.cache
+E:\ACASA\homework4\common elements\common elements\obj\Debug\common elements.exe
+E:\ACASA\homework4\common elements\common elements\obj\Debug\common elements.pdb
+E:\ACASA\homework4\common elements\common elements\bin\Debug\common elements.exe.config
+E:\ACASA\homework4\common elements\common elements\bin\Debug\common elements.exe
+E:\ACASA\homework4\common elements\common elements\bin\Debug\common elements.pdb
