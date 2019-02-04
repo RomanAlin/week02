@@ -1,0 +1,5 @@
+#linie {
+    height: 5px;
+    background-color: grey; /* For browsers that do not support gradients */
+    background-image: linear-gradient(grey, WHITE); /* Standard syntax (must be last) */
+  }

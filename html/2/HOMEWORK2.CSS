@@ -1,0 +1,22 @@
+ul.a {
+    
+    list-style-type: disc
+    
+  }
+
+  ol.b {
+    list-style-type: lower-alpha;
+    
+  }
+  
+  ul.d {
+  
+    list-style-type: circle;
+    
+  }
+  ul.e {
+    list-style-type: square;
+    list-style-position: inside
+   
+  }
+  
